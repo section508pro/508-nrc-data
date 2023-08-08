@@ -1,0 +1,1602 @@
+[
+  {
+    "path": "/",
+    "score": 0.77,
+    "performance": 0.51,
+    "accessibility": 0.96,
+    "best-practices": 0.92,
+    "seo": 0.67
+  },
+  {
+    "path": "/about-nrc.html",
+    "score": 0.81,
+    "performance": 0.57,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/alt-dispute-resolution.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/alt-dispute-resolution/nrc-participation.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/alt-dispute-resolution/nrc-programs.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/career-opportunities/outreach/atlanta-university-center-consortium-federal-gover.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/career-opportunities/outreach/north-carolina-a-t-state-university-fall-career-fa.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/career-opportunities/outreach/northeastern-state-university-career,-internship,-.html",
+    "score": 0.9,
+    "performance": 0.95,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/career-opportunities/outreach/society-of-women-engineers-national-conference-(2).html",
+    "score": 0.89,
+    "performance": 0.94,
+    "accessibility": 0.95,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/career-opportunities/outreach/texas-a-m-university-student-engineers’-counci-(1).html",
+    "score": 0.9,
+    "performance": 0.93,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/career-opportunities/outreach/university-of-michigan-swe-tbp-career-fair-(ann-ar.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/career-opportunities/outreach/university-of-puerto-rico-(mayaguez,-pr)-(1).html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/career-opportunities/outreach/virginia-tech-engineering-expo-(blacksburg,-va)-(1.html",
+    "score": 0.9,
+    "performance": 0.95,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/cfsi/guidance.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/cfsi/presentations.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/cfsi/safety-culture.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/diversity-equity-inclusion.html",
+    "score": 0.89,
+    "performance": 0.92,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/diversity-equity-inclusion/aapii.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/diversity-equity-inclusion/hbcu.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/diversity-equity-inclusion/hsi.html",
+    "score": 0.9,
+    "performance": 0.96,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/diversity-equity-inclusion/tcu.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/contactus.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/contactus/contactus-eeo.html",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/contactus/contactus-occp.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/contactus/contactus-sb.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/crp.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/crp/about-crp.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/crp/dca.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/crp/edc-process.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/crp/edc-process/edc-formal-complaint.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/crp/edc-process/edc-precomplaint.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/crp/edc-process/nrc-counselors.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/crp/eeo-adr-program.html",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/crp/eeo-adr-program/coordinator.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/crp/eeo-adr-program/formal-complaint.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/crp/eeo-adr-program/mediation.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/crp/eeo-adr-program/pre-complaint.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/crp/eeo-statutes-regs.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/crp/eeo.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/crp/faq.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/occp/compliance-pgrm/age.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/occp/compliance-pgrm/disability.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/occp/compliance-pgrm/title-ix.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/occp/compliance-pgrm/title-vi.html",
+    "score": 0.87,
+    "performance": 0.81,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/outreach-coord-comp-program.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/outreach-coord-comp-program/award-compliance.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/outreach-coord-comp-program/compliance-pgrm.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/outreach-coord-comp-program/how-to-file-complaint-discrimination-recipient-nrc-financial-assistance.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/outreach-coord-comp-program/limited-english.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/outreach-coord-comp-program/section-504.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/outreach-coord-comp-program/statutes.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/reasonable-accommodations.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/special-emphasis.html",
+    "score": 0.85,
+    "performance": 0.85,
+    "accessibility": 0.95,
+    "best-practices": 0.83,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/contactus/contact-pages.html",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/contactus/phone-directory.html",
+    "score": 0.89,
+    "performance": 1,
+    "accessibility": 0.89,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/contactus/vulnerability-disclosure-policy-information.html",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/contactus/vulnerability-disclosure-policy-information/policy.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/contracting/48cfr-ch20.html",
+    "score": 0.9,
+    "performance": 1,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/contracting/forecast/commercial-contracts-metadata.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/contracting/general/general.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/contracting/general/notice.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/contracting/small-business.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/contracting/small-business/forecast.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/contracting/small-business/meet-greet-seminars.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/contracting/small-business/other.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/contracting/small-business/overview.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/contracting/small-business/programs.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/contracting/small-business/small-business-sub-contr-opps.html",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/contracting/small-business/tips.html",
+    "score": 0.91,
+    "performance": 0.97,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/covid-19/index.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/covid-19/materials/decommissioning.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/covid-19/materials/fuel-cycle.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/covid-19/materials/index.html",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/covid-19/materials/med-indust-academic.html",
+    "score": 0.89,
+    "performance": 0.91,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/covid-19/materials/storage.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/covid-19/reactors/codes-standards.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/covid-19/reactors/index.html",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.97,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/covid-19/reactors/info-rtrs.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/covid-19/reactors/owners-activity-reports.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/covid-19/reactors/part-20-non-power-form.html",
+    "score": 0.85,
+    "performance": 0.85,
+    "accessibility": 0.97,
+    "best-practices": 0.83,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/covid-19/reactors/part-26-work-hour-control-exemption.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/covid-19/reactors/part-26-work-hour-req.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/covid-19/reactors/part-55-operators-licenses-form.html",
+    "score": 0.86,
+    "performance": 0.88,
+    "accessibility": 0.97,
+    "best-practices": 0.83,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/covid-19/security-ep/emergency-preparedness.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/covid-19/security-ep/index.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/covid-19/security-ep/training-qualification-req.html",
+    "score": 0.9,
+    "performance": 0.99,
+    "accessibility": 0.95,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/emerg-preparedness-contactus.html",
+    "score": 0.9,
+    "performance": 0.96,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/emerg-preparedness.html",
+    "score": 0.9,
+    "performance": 0.94,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/emerg-preparedness/about-emerg-preparedness/emerg-action-level-dev.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/emerg-preparedness/about-emerg-preparedness/emerg-classification.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/emerg-preparedness/about-emerg-preparedness/emerg-classification/event-scale.html",
+    "score": 0.91,
+    "performance": 0.97,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/emerg-preparedness/about-emerg-preparedness/federal-state-local.html",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/emerg-preparedness/about-emerg-preparedness/planning-zones.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/emerg-preparedness/about-emerg-preparedness/planning-zones/10-mile-plume-exposure.html",
+    "score": 0.91,
+    "performance": 0.97,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/emerg-preparedness/about-emerg-preparedness/potassium-iodide-use.html",
+    "score": 0.9,
+    "performance": 0.96,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/emerg-preparedness/about-emerg-preparedness/potassium-iodide/ki-faq.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/emerg-preparedness/about-emerg-preparedness/protective-action-recommendations.html",
+    "score": 0.89,
+    "performance": 0.92,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/emerg-preparedness/about-emerg-preparedness/protective-action/principles-evac.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/emerg-preparedness/about-emerg-preparedness/research-test.html",
+    "score": 0.9,
+    "performance": 0.96,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/emerg-preparedness/about-emerg-preparedness/response-terrorism.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/emerg-preparedness/faq.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/emerg-preparedness/faq/faq-contactus.html",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/emerg-preparedness/faq/reporting-requirements.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/emerg-preparedness/history.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/emerg-preparedness/in-radiological-emerg.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/emerg-preparedness/post-disaster-consideration.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/emerg-preparedness/protective-actions-recommendations.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/emerg-preparedness/regs-guidance-comm.html",
+    "score": 0.91,
+    "performance": 0.97,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/emerg-preparedness/regs-guide-comm/ep-generic-comm.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/emerg-preparedness/related-information.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/emerg-preparedness/related-information/fema-after-action-reports.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/emerg-preparedness/respond-to-emerg/hostile-action.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/emerg-preparedness/respond-to-emerg/hostile-action/contactus.html",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/emerg-preparedness/respond-to-emerg/hurricane-response.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/emerg-preparedness/respond-to-emerg/nuclear-facility-response.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/emerg-preparedness/respond-to-emerg/resp-dirty-bomb.html",
+    "score": 0.87,
+    "performance": 0.82,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/emerg-preparedness/respond-to-emerg/response-modes.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/emerg-preparedness/respond-to-emerg/response-terrorism.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/emerg-preparedness/respond-to-emerg/state-local-actions.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/emerg-preparedness/respond-to-emergency.html",
+    "score": 0.91,
+    "performance": 0.97,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/employment.html",
+    "score": 0.89,
+    "performance": 0.92,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/employment/apply.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/employment/benefits.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/employment/careerpaths/explore-careers.html",
+    "score": 0.9,
+    "performance": 0.95,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/employment/careerpaths/explore-careers/admin-asst.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/employment/careerpaths/explore-careers/budget-analyst.html",
+    "score": 0.9,
+    "performance": 0.93,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/employment/careerpaths/explore-careers/contract-specialist.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/employment/careerpaths/explore-careers/enforcement-specialist.html",
+    "score": 0.9,
+    "performance": 0.95,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/employment/careerpaths/explore-careers/environmental-scientist.html",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/employment/careerpaths/explore-careers/govt-info-specialist.html",
+    "score": 0.88,
+    "performance": 0.87,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/employment/careerpaths/explore-careers/health-physicist.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/employment/careerpaths/explore-careers/reliability-and-risk-analyst.html",
+    "score": 0.88,
+    "performance": 0.88,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/employment/disabled.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/employment/ethics/finan-disclosure-forms.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/employment/ethics/laws-regulations.html",
+    "score": 0.85,
+    "performance": 0.73,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/employment/ethics/list-prohibited-security.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/employment/ethics/major-ethics-rules.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/employment/ethics/major-ethics-rules/finan-disclose.html",
+    "score": 0.9,
+    "performance": 0.93,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/employment/ethics/major-ethics-rules/finan-interest.html",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/employment/ethics/major-ethics-rules/nonpub-info.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/employment/ethics/major-ethics-rules/rep-gov.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/employment/ethics/major-ethics-rules/security-owner-restrict.html",
+    "score": 0.89,
+    "performance": 0.91,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/employment/ethics/major-ethics-rules/supple-fed-sal.html",
+    "score": 0.9,
+    "performance": 0.93,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/employment/ethics/major-ethics-rules/time-prop.html",
+    "score": 0.88,
+    "performance": 0.86,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/employment/ethics/major-ethics-rules/title-position.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/employment/ethics/program-reviews.html",
+    "score": 0.9,
+    "performance": 0.96,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/employment/ethics/related-ethics.html",
+    "score": 0.88,
+    "performance": 0.85,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/employment/intern_salaries.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/employment/newemployees.html",
+    "score": 0.88,
+    "performance": 0.88,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/employment/opportunities.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/employment/students-summer-faq.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/employment/workingatnrc.html",
+    "score": 0.89,
+    "performance": 0.98,
+    "accessibility": 0.98,
+    "best-practices": 0.83,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/fire-protection.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/fire-protection/fire-safety-res.html",
+    "score": 0.91,
+    "performance": 0.97,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/fire-protection/fuel-cycle-fac.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/fire-protection/op-reactors.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/fire-protection/related-info.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/fire-protection/related-info/ad-letters.html",
+    "score": 0.9,
+    "performance": 0.95,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/fire-protection/related-info/circulars.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/fire-protection/related-info/faq.html",
+    "score": 0.89,
+    "performance": 0.9,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/fire-protection/related-info/fire-inspect-manual.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/fire-protection/related-info/fire-prot-nureg-cp.html",
+    "score": 0.9,
+    "performance": 0.93,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/fire-protection/related-info/gen-issues.html",
+    "score": 0.89,
+    "performance": 0.9,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/fire-protection/related-info/gen-letters.html",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/fire-protection/related-info/guide-npp.html",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/grants/awards/2009/index.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/grants/awards/2010/index.html",
+    "score": 0.88,
+    "performance": 0.87,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/grants/awards/2011/index.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/grants/awards/2012/index.html",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/grants/awards/2013/index.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/grants/awards/2014/index.html",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/grants/awards/2015/index.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/grants/awards/2016/index.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/grants/awards/2017/index.html",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/grants/awards/2018/index.html",
+    "score": 0.89,
+    "performance": 0.9,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/grants/awards/2019/index.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/grants/awards/2020/index.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/grants/awards/2021/index.html",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/grants/awards/2022/index.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/grants/awards/2023/index.html",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/grants/awards/index.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/grants/awards/success-stories.html",
+    "score": 0.9,
+    "performance": 0.95,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/grants/faqs.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/grants/feedback-grants.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/history/references.html",
+    "score": 0.9,
+    "performance": 0.93,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/ip/bilateral-relations.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/ip/contact-ip.html",
+    "score": 0.9,
+    "performance": 0.94,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/ip/export-import.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/ip/export-import/fees.html",
+    "score": 0.88,
+    "performance": 0.86,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/ip/export-import/general-licenses.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/ip/export-import/license-terms.html",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/ip/export-import/license-types.html",
+    "score": 0.91,
+    "performance": 0.97,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/ip/export-import/part110-update.html",
+    "score": 0.91,
+    "performance": 0.97,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/ip/export-import/specific-license-requirement.html",
+    "score": 0.9,
+    "performance": 0.96,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/ip/export-import/specific-licenses.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/ip/export-import/us-nrc-prep-export-advanced-reactors.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/ip/intl-assistance.html",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/ip/intl-organizations.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/ip/research-programs.html",
+    "score": 0.9,
+    "performance": 0.96,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  }
+]
