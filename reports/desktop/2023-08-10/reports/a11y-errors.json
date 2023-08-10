@@ -1,0 +1,147 @@
+[
+  {
+    "id": "color-contrast",
+    "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+    "description": "Low-contrast text is difficult or impossible for many users to read. [Learn more](https://web.dev/color-contrast/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-319-BUTTON",
+            "path": "1,HTML,1,BODY,0,FORM,8,DIV,4,MAIN,1,DIV,0,DIV,2,DIV,2,DIV,0,DIV,1,DIV,0,BUTTON",
+            "selector": "div#calendar > div.fc-toolbar > div.fc-right > button.fc-today-button",
+            "boundingRect": {
+              "top": 751,
+              "bottom": 780,
+              "left": 1105,
+              "right": 1158,
+              "width": 53,
+              "height": 29
+            },
+            "snippet": "<button type=\"button\" class=\"fc-today-button fc-button fc-state-default fc-corner-left fc-corner-right …\">",
+            "nodeLabel": "today",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 3.83 (foreground color: #828282, background color: #ffffff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-322-DIV",
+                  "path": "1,HTML,1,BODY,0,FORM,8,DIV,4,MAIN,1,DIV,0,DIV,2,DIV,2,DIV,0,DIV",
+                  "selector": "div.row > div.col-md-4 > div#calendar > div.fc-toolbar",
+                  "boundingRect": {
+                    "top": 741,
+                    "bottom": 795,
+                    "left": 890,
+                    "right": 1260,
+                    "width": 370,
+                    "height": 54
+                  },
+                  "snippet": "<div class=\"fc-toolbar fc-header-toolbar\">",
+                  "nodeLabel": "today\nAUGUST 2023"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.color",
+          "wcag2aa",
+          "wcag143"
+        ]
+      }
+    },
+    "errorCount": 1
+  },
+  {
+    "id": "heading-order",
+    "title": "Heading elements are not in a sequentially-descending order",
+    "description": "Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more](https://web.dev/heading-order/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-323-H3",
+            "path": "1,HTML,1,BODY,0,FORM,8,DIV,4,MAIN,1,DIV,0,DIV,0,DIV,0,H3",
+            "selector": "div.container > div.row > div.col-md-4 > h3.text-left",
+            "boundingRect": {
+              "top": 632,
+              "bottom": 682,
+              "left": 90,
+              "right": 460,
+              "width": 370,
+              "height": 50
+            },
+            "snippet": "<h3 class=\"text-left white primary-background-heading\">",
+            "nodeLabel": "Spotlight",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-324-H4",
+            "path": "1,HTML,1,BODY,0,FORM,8,DIV,10,FOOTER,1,DIV,0,DIV,0,DIV,0,H4",
+            "selector": "div.container > div.row > div.col-md-3 > h4.text-left",
+            "boundingRect": {
+              "top": 1904,
+              "bottom": 1948,
+              "left": 90,
+              "right": 345,
+              "width": 255,
+              "height": 44
+            },
+            "snippet": "<h4 class=\"text-left black white-background-heading\">",
+            "nodeLabel": "HOME",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 2
+  }
+]
