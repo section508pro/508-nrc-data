@@ -1,0 +1,224 @@
+[
+  {
+    "id": "duplicate-id-active",
+    "title": "`[id]` attributes on active, focusable elements are not unique",
+    "description": "All focusable elements must have a unique `id` to ensure that they're visible to assistive technologies. [Learn more](https://web.dev/duplicate-id-active/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-144-A",
+            "path": "1,HTML,1,BODY,0,FORM,8,DIV,4,MAIN,3,DIV,0,DIV,1,DIV,6,TABLE,0,TBODY,1,TR,0,TD,1,A",
+            "selector": "tbody > tr > td > a#ftnref2",
+            "boundingRect": {
+              "top": 1438,
+              "bottom": 1454,
+              "left": 78,
+              "right": 84,
+              "width": 6,
+              "height": 16
+            },
+            "snippet": "<a href=\"#ftn2\" id=\"ftnref2\">",
+            "nodeLabel": "2",
+            "explanation": "Fix any of the following:\n  Document has active elements with the same id attribute: ftnref2"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-145-A",
+                  "path": "1,HTML,1,BODY,0,FORM,8,DIV,4,MAIN,3,DIV,0,DIV,1,DIV,6,TABLE,0,TBODY,3,TR,0,TD,1,P,1,A",
+                  "selector": "tr > td > p > a#ftnref2",
+                  "boundingRect": {
+                    "top": 1798,
+                    "bottom": 1814,
+                    "left": 74,
+                    "right": 80,
+                    "width": 6,
+                    "height": 16
+                  },
+                  "snippet": "<a href=\"#ftn2\" id=\"ftnref2\">",
+                  "nodeLabel": "2"
+                }
+              },
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-151-A",
+                  "path": "1,HTML,1,BODY,0,FORM,8,DIV,4,MAIN,3,DIV,0,DIV,1,DIV,6,TABLE,0,TBODY,35,TR,0,TD,1,A",
+                  "selector": "tbody > tr > td > a#ftnref2",
+                  "boundingRect": {
+                    "top": 3156,
+                    "bottom": 3172,
+                    "left": 74,
+                    "right": 80,
+                    "width": 6,
+                    "height": 16
+                  },
+                  "snippet": "<a href=\"#ftn2\" id=\"ftnref2\">",
+                  "nodeLabel": "2"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-146-A",
+            "path": "1,HTML,1,BODY,0,FORM,8,DIV,4,MAIN,3,DIV,0,DIV,1,DIV,6,TABLE,0,TBODY,7,TR,0,TD,1,A",
+            "selector": "tbody > tr > td > a#ftnref3",
+            "boundingRect": {
+              "top": 1761,
+              "bottom": 1777,
+              "left": 190,
+              "right": 196,
+              "width": 6,
+              "height": 16
+            },
+            "snippet": "<a href=\"#ftn3\" id=\"ftnref3\">",
+            "nodeLabel": "3",
+            "explanation": "Fix any of the following:\n  Document has active elements with the same id attribute: ftnref3"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-147-A",
+                  "path": "1,HTML,1,BODY,0,FORM,8,DIV,4,MAIN,3,DIV,0,DIV,1,DIV,6,TABLE,0,TBODY,8,TR,0,TD,1,A",
+                  "selector": "tbody > tr > td > a#ftnref3",
+                  "boundingRect": {
+                    "top": 1820,
+                    "bottom": 1836,
+                    "left": 187,
+                    "right": 192,
+                    "width": 6,
+                    "height": 16
+                  },
+                  "snippet": "<a href=\"#ftn3\" id=\"ftnref3\">",
+                  "nodeLabel": "3"
+                }
+              },
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-148-A",
+                  "path": "1,HTML,1,BODY,0,FORM,8,DIV,4,MAIN,3,DIV,0,DIV,1,DIV,6,TABLE,0,TBODY,9,TR,0,TD,1,A",
+                  "selector": "tbody > tr > td > a#ftnref3",
+                  "boundingRect": {
+                    "top": 1879,
+                    "bottom": 1895,
+                    "left": 187,
+                    "right": 192,
+                    "width": 6,
+                    "height": 16
+                  },
+                  "snippet": "<a href=\"#ftn3\" id=\"ftnref3\">",
+                  "nodeLabel": "3"
+                }
+              },
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-149-A",
+                  "path": "1,HTML,1,BODY,0,FORM,8,DIV,4,MAIN,3,DIV,0,DIV,1,DIV,6,TABLE,0,TBODY,23,TR,0,TD,1,A",
+                  "selector": "tbody > tr > td > a#ftnref3",
+                  "boundingRect": {
+                    "top": 2509,
+                    "bottom": 2525,
+                    "left": 187,
+                    "right": 192,
+                    "width": 6,
+                    "height": 16
+                  },
+                  "snippet": "<a href=\"#ftn3\" id=\"ftnref3\">",
+                  "nodeLabel": "3"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.parsing",
+          "wcag2a",
+          "wcag411"
+        ]
+      }
+    },
+    "errorCount": 2
+  },
+  {
+    "id": "heading-order",
+    "title": "Heading elements are not in a sequentially-descending order",
+    "description": "Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more](https://web.dev/heading-order/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-301-H4",
+            "path": "1,HTML,1,BODY,0,FORM,8,DIV,4,MAIN,3,DIV,0,DIV,3,DIV,8,DIV,0,DIV,0,DIV,0,H4",
+            "selector": "div#sidebar-panel > div.panel > div.panel-heading > h4.panel-title",
+            "boundingRect": {
+              "top": 4409,
+              "bottom": 4447,
+              "left": 21,
+              "right": 391,
+              "width": 370,
+              "height": 38
+            },
+            "snippet": "<h4 class=\"panel-title\">",
+            "nodeLabel": "Choose a Section",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 1
+  }
+]

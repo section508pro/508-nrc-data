@@ -1,0 +1,77 @@
+[
+  {
+    "id": "color-contrast",
+    "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+    "description": "Low-contrast text is difficult or impossible for many users to read. [Learn more](https://web.dev/color-contrast/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-276-EM",
+            "path": "1,HTML,1,BODY,0,FORM,8,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,6,DIV,11,DIV,1,H3,2,EM",
+            "selector": "div.rop-section > div.triplecol > h3 > em",
+            "boundingRect": {
+              "top": 1537,
+              "bottom": 1554,
+              "left": 120,
+              "right": 422,
+              "width": 302,
+              "height": 17
+            },
+            "snippet": "<em style=\"font-size:.8em; color:red; font-style:normal;\">",
+            "nodeLabel": "[Licensee Portal Under Development]",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 3.99 (foreground color: #ff0000, background color: #ffffff, font size: 12.0pt (16px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-277-DIV",
+                  "path": "1,HTML,1,BODY,0,FORM,8,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,6,DIV,11,DIV",
+                  "selector": "div.row > div.col-sm-12 > div.rop-section > div.triplecol",
+                  "boundingRect": {
+                    "top": 1318,
+                    "bottom": 1571,
+                    "left": 90,
+                    "right": 453,
+                    "width": 363,
+                    "height": 253
+                  },
+                  "snippet": "<div align=\"center\" class=\"triplecol\">",
+                  "nodeLabel": "10 CFR 50.55a\nCodes and Standards\n[Licensee Portal Under Development]"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.color",
+          "wcag2aa",
+          "wcag143"
+        ]
+      }
+    },
+    "errorCount": 1
+  }
+]
