@@ -1,0 +1,109 @@
+[
+  {
+    "id": "heading-order",
+    "title": "Heading elements are not in a sequentially-descending order",
+    "description": "Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more](https://web.dev/heading-order/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-269-H4",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,3,DIV,7,DIV,0,H4",
+            "selector": "div.row > div.col-sm-3 > div.spotlight-heading > h4",
+            "boundingRect": {
+              "top": 1412,
+              "bottom": 1455,
+              "left": 20,
+              "right": 392,
+              "width": 372,
+              "height": 43
+            },
+            "snippet": "<h4>",
+            "nodeLabel": "Spotlight",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 1
+  },
+  {
+    "id": "label",
+    "title": "Form elements do not have associated labels",
+    "description": "Labels ensure that form controls are announced properly by assistive technologies, like screen readers. [Learn more](https://web.dev/label/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-267-INPUT",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,1,DIV,3,DIV,1,DIV,0,DIV,1,INPUT",
+            "selector": "div.row > div.col-md-6 > div#p_lt_WebPartZone10_zPlaceholder_pph_p_lt_WebPartZone6_zSB_PhoneSearch_pnlSearch > input#p_lt_WebPartZone10_zPlaceholder_pph_p_lt_WebPartZone6_zSB_PhoneSearch_txtWord",
+            "boundingRect": {
+              "top": 759,
+              "bottom": 799,
+              "left": 20,
+              "right": 392,
+              "width": 372,
+              "height": 40
+            },
+            "snippet": "<input name=\"p$lt$WebPartZone10$zPlaceholder$pph$p$lt$WebPartZone6$zSB$PhoneSearch$txtW…\" type=\"text\" maxlength=\"1000\" id=\"p_lt_WebPartZone10_zPlaceholder_pph_p_lt_WebPartZone6_zSB_PhoneSearch_txtW…\" class=\"search-box form-control\">",
+            "nodeLabel": "div.row > div.col-md-6 > div#p_lt_WebPartZone10_zPlaceholder_pph_p_lt_WebPartZone6_zSB_PhoneSearch_pnlSearch > input#p_lt_WebPartZone10_zPlaceholder_pph_p_lt_WebPartZone6_zSB_PhoneSearch_txtWord",
+            "explanation": "Fix all of the following:\n  Form element has explicit <label> that is hidden"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "critical",
+        "tags": [
+          "cat.forms",
+          "wcag2a",
+          "wcag412",
+          "wcag131",
+          "section508",
+          "section508.22.n",
+          "ACT"
+        ]
+      }
+    },
+    "errorCount": 1
+  }
+]
