@@ -1,0 +1,2622 @@
+[
+  {
+    "id": "definition-list",
+    "title": "`<dl>`'s do not contain only properly-ordered `<dt>` and `<dd>` groups, `<script>`, `<template>` or `<div>` elements.",
+    "description": "When definition lists are not properly marked up, screen readers may produce confusing or inaccurate output. [Learn more](https://web.dev/definition-list/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-458-DL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,8,DL",
+            "selector": "div.container > div.row > div.col-sm-12 > dl",
+            "boundingRect": {
+              "top": 10486,
+              "bottom": 10771,
+              "left": 20,
+              "right": 392,
+              "width": 372,
+              "height": 285
+            },
+            "snippet": "<dl>",
+            "nodeLabel": "2001.101 Purpose.\n2001.102 Authority.\n2001.103 Applicability.\n2001.104 Issuance…",
+            "explanation": "Fix all of the following:\n  When not empty, element does not have at least one <dt> element followed by at least one <dd> element"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-459-DL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,11,DL",
+            "selector": "div.container > div.row > div.col-sm-12 > dl",
+            "boundingRect": {
+              "top": 10873,
+              "bottom": 10928,
+              "left": 20,
+              "right": 392,
+              "width": 372,
+              "height": 55
+            },
+            "snippet": "<dl>",
+            "nodeLabel": "2001.301 Policy.\n2001.303 Public participation.",
+            "explanation": "Fix all of the following:\n  When not empty, element does not have at least one <dt> element followed by at least one <dd> element"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-460-DL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,14,DL",
+            "selector": "div.container > div.row > div.col-sm-12 > dl",
+            "boundingRect": {
+              "top": 11051,
+              "bottom": 11141,
+              "left": 20,
+              "right": 392,
+              "width": 372,
+              "height": 90
+            },
+            "snippet": "<dl>",
+            "nodeLabel": "2001.402 Policy.\n2001.403 Individual deviations.\n2001.404 Class deviations.",
+            "explanation": "Fix all of the following:\n  When not empty, element does not have at least one <dt> element followed by at least one <dd> element"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-461-DL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,17,DL",
+            "selector": "div.container > div.row > div.col-sm-12 > dl",
+            "boundingRect": {
+              "top": 11264,
+              "bottom": 11409,
+              "left": 20,
+              "right": 392,
+              "width": 372,
+              "height": 145
+            },
+            "snippet": "<dl>",
+            "nodeLabel": "2001.600-70 Scope of subpart.\n2001.601 General.\n2001.602-3 Ratification of unau…",
+            "explanation": "Fix all of the following:\n  When not empty, element does not have at least one <dt> element followed by at least one <dd> element"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-462-DL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,138,DL",
+            "selector": "div.container > div.row > div.col-sm-12 > dl",
+            "boundingRect": {
+              "top": 21956,
+              "bottom": 22011,
+              "left": 20,
+              "right": 392,
+              "width": 372,
+              "height": 55
+            },
+            "snippet": "<dl>",
+            "nodeLabel": "2009.100 NRC policy.\n2009.105-70 Contract provisions.",
+            "explanation": "Fix all of the following:\n  When not empty, element does not have at least one <dt> element followed by at least one <dd> element"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-463-DL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,141,DL",
+            "selector": "div.container > div.row > div.col-sm-12 > dl",
+            "boundingRect": {
+              "top": 22134,
+              "bottom": 22489,
+              "left": 20,
+              "right": 392,
+              "width": 372,
+              "height": 355
+            },
+            "snippet": "<dl>",
+            "nodeLabel": "2009.403 Definitions.\n2009.404 Consolidated lists of parties excluded from Fede…",
+            "explanation": "Fix all of the following:\n  When not empty, element does not have at least one <dt> element followed by at least one <dd> element"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-464-DL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,144,DL",
+            "selector": "div.container > div.row > div.col-sm-12 > dl",
+            "boundingRect": {
+              "top": 22591,
+              "bottom": 23016,
+              "left": 20,
+              "right": 392,
+              "width": 372,
+              "height": 425
+            },
+            "snippet": "<dl>",
+            "nodeLabel": "2009.500 Scope of subpart.\n2009.570 NRC organizational conflicts of interest.\n2…",
+            "explanation": "Fix all of the following:\n  When not empty, element does not have at least one <dt> element followed by at least one <dd> element"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-465-DL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,307,DL",
+            "selector": "div.container > div.row > div.col-sm-12 > dl",
+            "boundingRect": {
+              "top": 40577,
+              "bottom": 40632,
+              "left": 20,
+              "right": 392,
+              "width": 372,
+              "height": 55
+            },
+            "snippet": "<dl>",
+            "nodeLabel": "2014.201 Preparation of invitation for bids.\n2014.201-670 Solicitation provisio…",
+            "explanation": "Fix all of the following:\n  When not empty, element does not have at least one <dt> element followed by at least one <dd> element"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-466-DL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,309,DL",
+            "selector": "div.container > div.row > div.col-sm-12 > dl",
+            "boundingRect": {
+              "top": 40693,
+              "bottom": 40748,
+              "left": 20,
+              "right": 392,
+              "width": 372,
+              "height": 55
+            },
+            "snippet": "<dl>",
+            "nodeLabel": "2014.407 Mistakes in bids.\n2014.407-3 Other mistakes disclosed before award.",
+            "explanation": "Fix all of the following:\n  When not empty, element does not have at least one <dt> element followed by at least one <dd> element"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-467-DL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,312,DL",
+            "selector": "div.container > div.row > div.col-sm-12 > dl",
+            "boundingRect": {
+              "top": 40871,
+              "bottom": 40926,
+              "left": 20,
+              "right": 392,
+              "width": 372,
+              "height": 55
+            },
+            "snippet": "<dl>",
+            "nodeLabel": "§2014.201 Preparation of invitation for bids.\n§2014.201-670 Solicitation provis…",
+            "explanation": "Fix all of the following:\n  When not empty, element does not have at least one <dt> element followed by at least one <dd> element"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-468-DL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,327,DL",
+            "selector": "div.container > div.row > div.col-sm-12 > dl",
+            "boundingRect": {
+              "top": 41961,
+              "bottom": 41981,
+              "left": 20,
+              "right": 392,
+              "width": 372,
+              "height": 20
+            },
+            "snippet": "<dl>",
+            "nodeLabel": "2015.209-70 Solicitation provisions and contract clause",
+            "explanation": "Fix all of the following:\n  When not empty, element does not have at least one <dt> element followed by at least one <dd> element"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-469-DL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,330,DL",
+            "selector": "div.container > div.row > div.col-sm-12 > dl",
+            "boundingRect": {
+              "top": 42104,
+              "bottom": 42229,
+              "left": 20,
+              "right": 392,
+              "width": 372,
+              "height": 125
+            },
+            "snippet": "<dl>",
+            "nodeLabel": "2015.300 Scope of part.\n2015.303 Responsibilities.\n2015.304 Evaluation factors.…",
+            "explanation": "Fix all of the following:\n  When not empty, element does not have at least one <dt> element followed by at least one <dd> element"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-470-DL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,333,DL",
+            "selector": "div.container > div.row > div.col-sm-12 > dl",
+            "boundingRect": {
+              "top": 42331,
+              "bottom": 42386,
+              "left": 20,
+              "right": 392,
+              "width": 372,
+              "height": 55
+            },
+            "snippet": "<dl>",
+            "nodeLabel": "2015.606 Agency procedures.\n2015.606-1 Receipt and initial review.",
+            "explanation": "Fix all of the following:\n  When not empty, element does not have at least one <dt> element followed by at least one <dd> element"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-471-DL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,385,DL",
+            "selector": "div.container > div.row > div.col-sm-12 > dl",
+            "boundingRect": {
+              "top": 47202,
+              "bottom": 47222,
+              "left": 20,
+              "right": 392,
+              "width": 372,
+              "height": 20
+            },
+            "snippet": "<dl>",
+            "nodeLabel": "2016.307-70 Contract provisions and clauses.",
+            "explanation": "Fix all of the following:\n  When not empty, element does not have at least one <dt> element followed by at least one <dd> element"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-472-DL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,388,DL",
+            "selector": "div.container > div.row > div.col-sm-12 > dl",
+            "boundingRect": {
+              "top": 47324,
+              "bottom": 47344,
+              "left": 20,
+              "right": 392,
+              "width": 372,
+              "height": 20
+            },
+            "snippet": "<dl>",
+            "nodeLabel": "2016.506-70 Contract provisions and clauses.",
+            "explanation": "Fix all of the following:\n  When not empty, element does not have at least one <dt> element followed by at least one <dd> element"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-473-DL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,400,DL",
+            "selector": "div.container > div.row > div.col-sm-12 > dl",
+            "boundingRect": {
+              "top": 48067,
+              "bottom": 48087,
+              "left": 20,
+              "right": 392,
+              "width": 372,
+              "height": 20
+            },
+            "snippet": "<dl>",
+            "nodeLabel": "2016.506-70 Contract provisions and clauses.",
+            "explanation": "Fix all of the following:\n  When not empty, element does not have at least one <dt> element followed by at least one <dd> element"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-474-DL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,401,DL",
+            "selector": "div.container > div.row > div.col-sm-12 > dl",
+            "boundingRect": {
+              "top": 48107,
+              "bottom": 48127,
+              "left": 20,
+              "right": 392,
+              "width": 372,
+              "height": 20
+            },
+            "snippet": "<dl>",
+            "nodeLabel": "§2016.506-70 Contract provisions and clauses.",
+            "explanation": "Fix all of the following:\n  When not empty, element does not have at least one <dt> element followed by at least one <dd> element"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-475-DL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,408,DL",
+            "selector": "div.container > div.row > div.col-sm-12 > dl",
+            "boundingRect": {
+              "top": 48498,
+              "bottom": 48518,
+              "left": 20,
+              "right": 392,
+              "width": 372,
+              "height": 20
+            },
+            "snippet": "<dl>",
+            "nodeLabel": "2017.204 Contracts",
+            "explanation": "Fix all of the following:\n  When not empty, element does not have at least one <dt> element followed by at least one <dd> element"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-476-DL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,418,DL",
+            "selector": "div.container > div.row > div.col-sm-12 > dl",
+            "boundingRect": {
+              "top": 49138,
+              "bottom": 49213,
+              "left": 20,
+              "right": 392,
+              "width": 372,
+              "height": 75
+            },
+            "snippet": "<dl>",
+            "nodeLabel": "2019.705 Responsibilities of the contracting officer under the subcontracting a…",
+            "explanation": "Fix all of the following:\n  When not empty, element does not have at least one <dt> element followed by at least one <dd> element"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-477-DL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,427,DL",
+            "selector": "div.container > div.row > div.col-sm-12 > dl",
+            "boundingRect": {
+              "top": 49771,
+              "bottom": 49826,
+              "left": 20,
+              "right": 392,
+              "width": 372,
+              "height": 55
+            },
+            "snippet": "<dl>",
+            "nodeLabel": "2022.101-1 General\n2022.103-4 Approvals.",
+            "explanation": "Fix all of the following:\n  When not empty, element does not have at least one <dt> element followed by at least one <dd> element"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-478-DL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,429,DL",
+            "selector": "div.container > div.row > div.col-sm-12 > dl",
+            "boundingRect": {
+              "top": 49887,
+              "bottom": 49907,
+              "left": 20,
+              "right": 392,
+              "width": 372,
+              "height": 20
+            },
+            "snippet": "<dl>",
+            "nodeLabel": "2022.901-70 Contract provisions.",
+            "explanation": "Fix all of the following:\n  When not empty, element does not have at least one <dt> element followed by at least one <dd> element"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-479-DL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,442,DL",
+            "selector": "div.container > div.row > div.col-sm-12 > dl",
+            "boundingRect": {
+              "top": 50650,
+              "bottom": 50670,
+              "left": 20,
+              "right": 392,
+              "width": 372,
+              "height": 20
+            },
+            "snippet": "<dl>",
+            "nodeLabel": "2024.103 Procedures.",
+            "explanation": "Fix all of the following:\n  When not empty, element does not have at least one <dt> element followed by at least one <dd> element"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-480-DL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,444,DL",
+            "selector": "div.container > div.row > div.col-sm-12 > dl",
+            "boundingRect": {
+              "top": 50731,
+              "bottom": 50751,
+              "left": 20,
+              "right": 392,
+              "width": 372,
+              "height": 20
+            },
+            "snippet": "<dl>",
+            "nodeLabel": "2024.202 Policy.",
+            "explanation": "Fix all of the following:\n  When not empty, element does not have at least one <dt> element followed by at least one <dd> element"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-481-DL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,456,DL",
+            "selector": "div.container > div.row > div.col-sm-12 > dl",
+            "boundingRect": {
+              "top": 51390,
+              "bottom": 51445,
+              "left": 20,
+              "right": 392,
+              "width": 372,
+              "height": 55
+            },
+            "snippet": "<dl>",
+            "nodeLabel": "2027.305-3 Follow-up by Government.\n2027.305-70 Solicitation provisions and con…",
+            "explanation": "Fix all of the following:\n  When not empty, element does not have at least one <dt> element followed by at least one <dd> element"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-482-DL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,491,DL",
+            "selector": "div.container > div.row > div.col-sm-12 > dl",
+            "boundingRect": {
+              "top": 53888,
+              "bottom": 53908,
+              "left": 20,
+              "right": 392,
+              "width": 372,
+              "height": 20
+            },
+            "snippet": "<dl>",
+            "nodeLabel": "2033.103 Protests to the agency.",
+            "explanation": "Fix all of the following:\n  When not empty, element does not have at least one <dt> element followed by at least one <dd> element"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-483-DL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,494,DL",
+            "selector": "div.container > div.row > div.col-sm-12 > dl",
+            "boundingRect": {
+              "top": 54010,
+              "bottom": 54100,
+              "left": 20,
+              "right": 392,
+              "width": 372,
+              "height": 90
+            },
+            "snippet": "<dl>",
+            "nodeLabel": "2033.204 Policy.\n2033.211 Contract Claims - Contracting officer's decision.\n203…",
+            "explanation": "Fix all of the following:\n  When not empty, element does not have at least one <dt> element followed by at least one <dd> element"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-484-DL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,509,DL",
+            "selector": "div.container > div.row > div.col-sm-12 > dl",
+            "boundingRect": {
+              "top": 55219,
+              "bottom": 55274,
+              "left": 20,
+              "right": 392,
+              "width": 372,
+              "height": 55
+            },
+            "snippet": "<dl>",
+            "nodeLabel": "2035.70 Contract clauses.\n2035.71 Broad agency announcements.",
+            "explanation": "Fix all of the following:\n  When not empty, element does not have at least one <dt> element followed by at least one <dd> element"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-485-DL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,529,DL",
+            "selector": "div.container > div.row > div.col-sm-12 > dl",
+            "boundingRect": {
+              "top": 56535,
+              "bottom": 56590,
+              "left": 20,
+              "right": 392,
+              "width": 372,
+              "height": 55
+            },
+            "snippet": "<dl>",
+            "nodeLabel": "2042.570-1 Policy\n2042.570-2 Solicitation and contract clauses",
+            "explanation": "Fix all of the following:\n  When not empty, element does not have at least one <dt> element followed by at least one <dd> element"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-486-DL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,532,DL",
+            "selector": "div.container > div.row > div.col-sm-12 > dl",
+            "boundingRect": {
+              "top": 56692,
+              "bottom": 56712,
+              "left": 20,
+              "right": 392,
+              "width": 372,
+              "height": 20
+            },
+            "snippet": "<dl>",
+            "nodeLabel": "2042.803 Disallowing costs after incurrence.",
+            "explanation": "Fix all of the following:\n  When not empty, element does not have at least one <dt> element followed by at least one <dd> element"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-487-DL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,565,DL",
+            "selector": "div.container > div.row > div.col-sm-12 > dl",
+            "boundingRect": {
+              "top": 59661,
+              "bottom": 59716,
+              "left": 20,
+              "right": 392,
+              "width": 372,
+              "height": 55
+            },
+            "snippet": "<dl>",
+            "nodeLabel": "2045.370 Providing Government property (in general).\n2045.371 Property accounta…",
+            "explanation": "Fix all of the following:\n  When not empty, element does not have at least one <dt> element followed by at least one <dd> element"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-488-DL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,580,DL",
+            "selector": "div.container > div.row > div.col-sm-12 > dl",
+            "boundingRect": {
+              "top": 60835,
+              "bottom": 62145,
+              "left": 20,
+              "right": 392,
+              "width": 372,
+              "height": 1310
+            },
+            "snippet": "<dl>",
+            "nodeLabel": "2052.200 Authority.\n2052.204-70 Security.\n2052.204-71 Site access badge require…",
+            "explanation": "Fix all of the following:\n  When not empty, element does not have at least one <dt> element followed by at least one <dd> element"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.structure",
+          "wcag2a",
+          "wcag131"
+        ]
+      }
+    },
+    "errorCount": 31
+  },
+  {
+    "id": "heading-order",
+    "title": "Heading elements are not in a sequentially-descending order",
+    "description": "Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more](https://web.dev/heading-order/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-489-H4",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,10,FOOTER,1,DIV,0,DIV,0,DIV,0,H4",
+            "selector": "div.container > div.row > div.col-md-3 > h4.text-left",
+            "boundingRect": {
+              "top": 108250,
+              "bottom": 108294,
+              "left": 20,
+              "right": 392,
+              "width": 372,
+              "height": 44
+            },
+            "snippet": "<h4 class=\"text-left black white-background-heading\">",
+            "nodeLabel": "HOME",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 1
+  },
+  {
+    "id": "list",
+    "title": "Lists do not contain only `<li>` elements and script supporting elements (`<script>` and `<template>`).",
+    "description": "Screen readers have a specific way of announcing lists. Ensuring proper list structure aids screen reader output. [Learn more](https://web.dev/list/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-490-UL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL",
+            "selector": "div.container > div.row > div.col-sm-12 > ul",
+            "boundingRect": {
+              "top": 420,
+              "bottom": 10101,
+              "left": 40,
+              "right": 392,
+              "width": 352,
+              "height": 9681
+            },
+            "snippet": "<ul>",
+            "nodeLabel": "CHAPTER 20 – NUCLEAR REGULATORY COMMISSION\n\nSUBCHAPTER A – GENERAL\n\n\n\nPART 2001…",
+            "explanation": "Fix all of the following:\n  List element has direct children that are not allowed inside <li> elements"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-491-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL",
+                  "selector": "div.row > div.col-sm-12 > ul > ul",
+                  "boundingRect": {
+                    "top": 420,
+                    "bottom": 10101,
+                    "left": 82,
+                    "right": 392,
+                    "width": 310,
+                    "height": 9681
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "CHAPTER 20 – NUCLEAR REGULATORY COMMISSION\n\nSUBCHAPTER A – GENERAL\n\n\n\nPART 2001…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-491-UL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL",
+            "selector": "div.row > div.col-sm-12 > ul > ul",
+            "boundingRect": {
+              "top": 420,
+              "bottom": 10101,
+              "left": 82,
+              "right": 392,
+              "width": 310,
+              "height": 9681
+            },
+            "snippet": "<ul>",
+            "nodeLabel": "CHAPTER 20 – NUCLEAR REGULATORY COMMISSION\n\nSUBCHAPTER A – GENERAL\n\n\n\nPART 2001…",
+            "explanation": "Fix all of the following:\n  List element has direct children that are not allowed inside <li> elements"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-492-BR",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,2,BR",
+                  "selector": "div.col-sm-12 > ul > ul > br",
+                  "boundingRect": {
+                    "top": 485,
+                    "bottom": 501,
+                    "left": 104,
+                    "right": 104,
+                    "width": 0,
+                    "height": 16
+                  },
+                  "snippet": "<br>",
+                  "nodeLabel": "div.col-sm-12 > ul > ul > br"
+                }
+              },
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-493-BR",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,3,BR",
+                  "selector": "div.col-sm-12 > ul > ul > br",
+                  "boundingRect": {
+                    "top": 506,
+                    "bottom": 522,
+                    "left": 104,
+                    "right": 104,
+                    "width": 0,
+                    "height": 16
+                  },
+                  "snippet": "<br>",
+                  "nodeLabel": "div.col-sm-12 > ul > ul > br"
+                }
+              },
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-494-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,4,UL",
+                  "selector": "div.col-sm-12 > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 525,
+                    "bottom": 2142,
+                    "left": 124,
+                    "right": 392,
+                    "width": 268,
+                    "height": 1617
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "PART 2001 – NUCLEAR REGULATORY COMMISSION ACQUISITION REGULATION SYSTEM\nSubpart…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-494-UL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,4,UL",
+            "selector": "div.col-sm-12 > ul > ul > ul",
+            "boundingRect": {
+              "top": 525,
+              "bottom": 2142,
+              "left": 124,
+              "right": 392,
+              "width": 268,
+              "height": 1617
+            },
+            "snippet": "<ul>",
+            "nodeLabel": "PART 2001 – NUCLEAR REGULATORY COMMISSION ACQUISITION REGULATION SYSTEM\nSubpart…",
+            "explanation": "Fix all of the following:\n  List element has direct children that are not allowed inside <li> elements"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-495-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,4,UL,1,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 609,
+                    "bottom": 1596,
+                    "left": 166,
+                    "right": 392,
+                    "width": 226,
+                    "height": 987
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "Subpart 2001.1 Purpose, Authority, Issuance\nSubpart 2001.3 Agency Acquisition R…"
+                }
+              },
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-496-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,4,UL,3,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 1617,
+                    "bottom": 1659,
+                    "left": 166,
+                    "right": 392,
+                    "width": 226,
+                    "height": 42
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "Subpart 2002.1 Definitions\n§2002.100 Definitions"
+                }
+              },
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-497-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,4,UL,5,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 1722,
+                    "bottom": 1995,
+                    "left": 166,
+                    "right": 392,
+                    "width": 226,
+                    "height": 273
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "Subpart 2003.1 Safeguards\nSubpart 2003.2 Contractor Gratuities to Government Pe…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-495-UL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,4,UL,1,UL",
+            "selector": "ul > ul > ul > ul",
+            "boundingRect": {
+              "top": 609,
+              "bottom": 1596,
+              "left": 166,
+              "right": 392,
+              "width": 226,
+              "height": 987
+            },
+            "snippet": "<ul>",
+            "nodeLabel": "Subpart 2001.1 Purpose, Authority, Issuance\nSubpart 2001.3 Agency Acquisition R…",
+            "explanation": "Fix all of the following:\n  List element has direct children that are not allowed inside <li> elements"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-498-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,4,UL,1,UL,5,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 819,
+                    "bottom": 1092,
+                    "left": 208,
+                    "right": 392,
+                    "width": 184,
+                    "height": 273
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "§2001.101 Purpose.\n§2001.102 Authority.\n§2001.103 Applicability\n§2001.104 Issua…"
+                }
+              },
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-499-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,4,UL,1,UL,7,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 1134,
+                    "bottom": 1197,
+                    "left": 208,
+                    "right": 392,
+                    "width": 184,
+                    "height": 63
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "§2001.301 Policy\n§2001.303 Public participation"
+                }
+              },
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-500-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,4,UL,1,UL,9,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 1239,
+                    "bottom": 1344,
+                    "left": 208,
+                    "right": 392,
+                    "width": 184,
+                    "height": 105
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "§2001.402 Policy\n§2001.403 Individual deviations\n§2001.404 Class deviations"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-496-UL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,4,UL,3,UL",
+            "selector": "ul > ul > ul > ul",
+            "boundingRect": {
+              "top": 1617,
+              "bottom": 1659,
+              "left": 166,
+              "right": 392,
+              "width": 226,
+              "height": 42
+            },
+            "snippet": "<ul>",
+            "nodeLabel": "Subpart 2002.1 Definitions\n§2002.100 Definitions",
+            "explanation": "Fix all of the following:\n  List element has direct children that are not allowed inside <li> elements"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-501-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,4,UL,3,UL,1,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 1638,
+                    "bottom": 1659,
+                    "left": 208,
+                    "right": 392,
+                    "width": 184,
+                    "height": 21
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "§2002.100 Definitions"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-497-UL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,4,UL,5,UL",
+            "selector": "ul > ul > ul > ul",
+            "boundingRect": {
+              "top": 1722,
+              "bottom": 1995,
+              "left": 166,
+              "right": 392,
+              "width": 226,
+              "height": 273
+            },
+            "snippet": "<ul>",
+            "nodeLabel": "Subpart 2003.1 Safeguards\nSubpart 2003.2 Contractor Gratuities to Government Pe…",
+            "explanation": "Fix all of the following:\n  List element has direct children that are not allowed inside <li> elements"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-502-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,4,UL,5,UL,3,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 1827,
+                    "bottom": 1869,
+                    "left": 208,
+                    "right": 392,
+                    "width": 184,
+                    "height": 42
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "§2003.101-3 Agency regulations"
+                }
+              },
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-503-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,4,UL,5,UL,5,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 1932,
+                    "bottom": 1995,
+                    "left": 208,
+                    "right": 392,
+                    "width": 184,
+                    "height": 63
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "§2003.203 Reporting suspected violations of the gratuities clause"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-504-UL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,4,UL,7,UL",
+            "selector": "ul > ul > ul > ul",
+            "boundingRect": {
+              "top": 2037,
+              "bottom": 2142,
+              "left": 166,
+              "right": 392,
+              "width": 226,
+              "height": 105
+            },
+            "snippet": "<ul>",
+            "nodeLabel": "Subpart 2004.4 Safeguarding Classified Information Within Industry\n§2004.404 Co…",
+            "explanation": "Fix all of the following:\n  List element has direct children that are not allowed inside <li> elements"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-505-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,4,UL,7,UL,1,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 2100,
+                    "bottom": 2142,
+                    "left": 208,
+                    "right": 392,
+                    "width": 184,
+                    "height": 42
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "§2004.404 Contract clauses."
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-506-UL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,6,UL",
+            "selector": "div.col-sm-12 > ul > ul > ul",
+            "boundingRect": {
+              "top": 2184,
+              "bottom": 3675,
+              "left": 124,
+              "right": 392,
+              "width": 268,
+              "height": 1491
+            },
+            "snippet": "<ul>",
+            "nodeLabel": "PART 2005 – PUBLICIZING CONTRACT ACTIONS\nSubpart 2005.5 Paid Advertisements\n§20…",
+            "explanation": "Fix all of the following:\n  List element has direct children that are not allowed inside <li> elements"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-507-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,6,UL,1,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 2226,
+                    "bottom": 2289,
+                    "left": 166,
+                    "right": 392,
+                    "width": 226,
+                    "height": 63
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "Subpart 2005.5 Paid Advertisements\n§2005.502 Authority."
+                }
+              },
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-508-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,6,UL,3,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 2331,
+                    "bottom": 3528,
+                    "left": 166,
+                    "right": 392,
+                    "width": 226,
+                    "height": 1197
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "Subpart 2009.1 Responsible Prospective Contractors\nSubpart 2009.4 Debarment, Su…"
+                }
+              },
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-509-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,6,UL,5,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 3570,
+                    "bottom": 3675,
+                    "left": 166,
+                    "right": 392,
+                    "width": 226,
+                    "height": 105
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "Subpart 2011.4 Delivery or Performance Schedules Contract Clauses\n§2011.104-70 …"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-507-UL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,6,UL,1,UL",
+            "selector": "ul > ul > ul > ul",
+            "boundingRect": {
+              "top": 2226,
+              "bottom": 2289,
+              "left": 166,
+              "right": 392,
+              "width": 226,
+              "height": 63
+            },
+            "snippet": "<ul>",
+            "nodeLabel": "Subpart 2005.5 Paid Advertisements\n§2005.502 Authority.",
+            "explanation": "Fix all of the following:\n  List element has direct children that are not allowed inside <li> elements"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-510-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,6,UL,1,UL,1,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 2268,
+                    "bottom": 2289,
+                    "left": 208,
+                    "right": 392,
+                    "width": 184,
+                    "height": 21
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "§2005.502 Authority."
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-508-UL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,6,UL,3,UL",
+            "selector": "ul > ul > ul > ul",
+            "boundingRect": {
+              "top": 2331,
+              "bottom": 3528,
+              "left": 166,
+              "right": 392,
+              "width": 226,
+              "height": 1197
+            },
+            "snippet": "<ul>",
+            "nodeLabel": "Subpart 2009.1 Responsible Prospective Contractors\nSubpart 2009.4 Debarment, Su…",
+            "explanation": "Fix all of the following:\n  List element has direct children that are not allowed inside <li> elements"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-511-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,6,UL,3,UL,4,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 2499,
+                    "bottom": 2562,
+                    "left": 208,
+                    "right": 392,
+                    "width": 184,
+                    "height": 63
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "§2009.100 NRC policy\n§2009.105-70 Contract provisions"
+                }
+              },
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-512-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,6,UL,3,UL,6,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 2604,
+                    "bottom": 2961,
+                    "left": 208,
+                    "right": 392,
+                    "width": 184,
+                    "height": 357
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "§2009.403 Definitions\n§2009.404 Consolidated list of parties excluded from Fede…"
+                }
+              },
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-513-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,6,UL,3,UL,8,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 3003,
+                    "bottom": 3528,
+                    "left": 208,
+                    "right": 392,
+                    "width": 184,
+                    "height": 525
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "§2009.500 Scope of subpart\n§2009.570 NRC organizational conflicts of interest\n§…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-509-UL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,6,UL,5,UL",
+            "selector": "ul > ul > ul > ul",
+            "boundingRect": {
+              "top": 3570,
+              "bottom": 3675,
+              "left": 166,
+              "right": 392,
+              "width": 226,
+              "height": 105
+            },
+            "snippet": "<ul>",
+            "nodeLabel": "Subpart 2011.4 Delivery or Performance Schedules Contract Clauses\n§2011.104-70 …",
+            "explanation": "Fix all of the following:\n  List element has direct children that are not allowed inside <li> elements"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-514-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,6,UL,5,UL,1,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 3633,
+                    "bottom": 3675,
+                    "left": 208,
+                    "right": 392,
+                    "width": 184,
+                    "height": 42
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "§2011.104-70 NRC Clauses"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-515-UL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,8,UL",
+            "selector": "div.col-sm-12 > ul > ul > ul",
+            "boundingRect": {
+              "top": 3717,
+              "bottom": 5292,
+              "left": 124,
+              "right": 392,
+              "width": 268,
+              "height": 1575
+            },
+            "snippet": "<ul>",
+            "nodeLabel": "PART 2013 – SIMPLIFIED ACQUISITION PROCEDURES (reserved)\nPART 2014 – SEALED BID…",
+            "explanation": "Fix all of the following:\n  List element has direct children that are not allowed inside <li> elements"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-516-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,8,UL,2,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 3801,
+                    "bottom": 4200,
+                    "left": 166,
+                    "right": 392,
+                    "width": 226,
+                    "height": 399
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "Subpart 2014.2 Solicitation of Bids\nSubpart 2014.4 Opening of Bids and Award of…"
+                }
+              },
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-517-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,8,UL,4,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 4242,
+                    "bottom": 4893,
+                    "left": 166,
+                    "right": 392,
+                    "width": 226,
+                    "height": 651
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "Subpart 2015.2 Solicitation and Receipt of Proposals and Information\nSubpart 20…"
+                }
+              },
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-518-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,8,UL,6,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 4935,
+                    "bottom": 5187,
+                    "left": 166,
+                    "right": 392,
+                    "width": 226,
+                    "height": 252
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "Subpart 2016.3 Cost Reimbursement Contracts\nSubpart 2016.5 Indefinite-Delivery …"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-516-UL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,8,UL,2,UL",
+            "selector": "ul > ul > ul > ul",
+            "boundingRect": {
+              "top": 3801,
+              "bottom": 4200,
+              "left": 166,
+              "right": 392,
+              "width": 226,
+              "height": 399
+            },
+            "snippet": "<ul>",
+            "nodeLabel": "Subpart 2014.2 Solicitation of Bids\nSubpart 2014.4 Opening of Bids and Award of…",
+            "explanation": "Fix all of the following:\n  List element has direct children that are not allowed inside <li> elements"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-519-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,8,UL,2,UL,3,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 3927,
+                    "bottom": 4011,
+                    "left": 208,
+                    "right": 392,
+                    "width": 184,
+                    "height": 84
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "§2014.201 Preparation of invitation for bids.\n§2014.201-670 Solicitation provis…"
+                }
+              },
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-520-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,8,UL,2,UL,5,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 4053,
+                    "bottom": 4200,
+                    "left": 208,
+                    "right": 392,
+                    "width": 184,
+                    "height": 147
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "§2014.407 Mistakes in bids.\n§2014.407-3 Other mistakes disclosed before award\n§…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-517-UL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,8,UL,4,UL",
+            "selector": "ul > ul > ul > ul",
+            "boundingRect": {
+              "top": 4242,
+              "bottom": 4893,
+              "left": 166,
+              "right": 392,
+              "width": 226,
+              "height": 651
+            },
+            "snippet": "<ul>",
+            "nodeLabel": "Subpart 2015.2 Solicitation and Receipt of Proposals and Information\nSubpart 20…",
+            "explanation": "Fix all of the following:\n  List element has direct children that are not allowed inside <li> elements"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-521-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,8,UL,4,UL,4,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 4473,
+                    "bottom": 4536,
+                    "left": 208,
+                    "right": 392,
+                    "width": 184,
+                    "height": 63
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "§2015.209-70 Solicitation provisions and contract clauses"
+                }
+              },
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-522-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,8,UL,4,UL,6,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 4599,
+                    "bottom": 4767,
+                    "left": 208,
+                    "right": 392,
+                    "width": 184,
+                    "height": 168
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "§2015.300 Scope of subpart\n§2015.303 Responsibilities\n§2015.304 Evaluation fact…"
+                }
+              },
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-523-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,8,UL,4,UL,8,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 4809,
+                    "bottom": 4893,
+                    "left": 208,
+                    "right": 392,
+                    "width": 184,
+                    "height": 84
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "§2015.606 Agency procedures\n§2015.606-1 Receipt and initial review"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-518-UL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,8,UL,6,UL",
+            "selector": "ul > ul > ul > ul",
+            "boundingRect": {
+              "top": 4935,
+              "bottom": 5187,
+              "left": 166,
+              "right": 392,
+              "width": 226,
+              "height": 252
+            },
+            "snippet": "<ul>",
+            "nodeLabel": "Subpart 2016.3 Cost Reimbursement Contracts\nSubpart 2016.5 Indefinite-Delivery …",
+            "explanation": "Fix all of the following:\n  List element has direct children that are not allowed inside <li> elements"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-524-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,8,UL,6,UL,3,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 5061,
+                    "bottom": 5103,
+                    "left": 208,
+                    "right": 392,
+                    "width": 184,
+                    "height": 42
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "§2016.307-70 Contract provisions and clauses."
+                }
+              },
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-525-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,8,UL,6,UL,5,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 5145,
+                    "bottom": 5187,
+                    "left": 208,
+                    "right": 392,
+                    "width": 184,
+                    "height": 42
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "§2016.506-70 Contract provisions and clauses"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-526-UL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,8,UL,8,UL",
+            "selector": "ul > ul > ul > ul",
+            "boundingRect": {
+              "top": 5229,
+              "bottom": 5292,
+              "left": 166,
+              "right": 392,
+              "width": 226,
+              "height": 63
+            },
+            "snippet": "<ul>",
+            "nodeLabel": "Subpart 2017.2 – Options\nSubpart 2017.2 Options\n§2017.204 Contracts",
+            "explanation": "Fix all of the following:\n  List element has direct children that are not allowed inside <li> elements"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-527-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,8,UL,8,UL,2,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 5271,
+                    "bottom": 5292,
+                    "left": 208,
+                    "right": 392,
+                    "width": 184,
+                    "height": 21
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "§2017.204 Contracts"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-528-UL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,10,UL",
+            "selector": "div.col-sm-12 > ul > ul > ul",
+            "boundingRect": {
+              "top": 5334,
+              "bottom": 6363,
+              "left": 124,
+              "right": 392,
+              "width": 268,
+              "height": 1029
+            },
+            "snippet": "<ul>",
+            "nodeLabel": "PART 2019 – SMALL BUSINESS PROGRAMS\nSubpart 2019.7 Subcontracting with small bu…",
+            "explanation": "Fix all of the following:\n  List element has direct children that are not allowed inside <li> elements"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-529-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,10,UL,1,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 5376,
+                    "bottom": 5733,
+                    "left": 166,
+                    "right": 392,
+                    "width": 226,
+                    "height": 357
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "Subpart 2019.7 Subcontracting with small business, small disadvantaged business…"
+                }
+              },
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-530-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,10,UL,3,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 5796,
+                    "bottom": 6090,
+                    "left": 166,
+                    "right": 392,
+                    "width": 226,
+                    "height": 294
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "Subpart 2022.1 Basic Labor Policies\nSubpart 2022.9 Nondiscrimination Because of…"
+                }
+              },
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-531-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,10,UL,5,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 6153,
+                    "bottom": 6363,
+                    "left": 166,
+                    "right": 392,
+                    "width": 226,
+                    "height": 210
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "Subpart 2024.1 Protection of Individual Privacy\nSubpart 2024.2 Freedom of Infor…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-529-UL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,10,UL,1,UL",
+            "selector": "ul > ul > ul > ul",
+            "boundingRect": {
+              "top": 5376,
+              "bottom": 5733,
+              "left": 166,
+              "right": 392,
+              "width": 226,
+              "height": 357
+            },
+            "snippet": "<ul>",
+            "nodeLabel": "Subpart 2019.7 Subcontracting with small business, small disadvantaged business…",
+            "explanation": "Fix all of the following:\n  List element has direct children that are not allowed inside <li> elements"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-532-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,10,UL,1,UL,2,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 5586,
+                    "bottom": 5733,
+                    "left": 208,
+                    "right": 392,
+                    "width": 184,
+                    "height": 147
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "§2019-705 Responsibilities of the contracting officer under the subcontracting\n…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-530-UL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,10,UL,3,UL",
+            "selector": "ul > ul > ul > ul",
+            "boundingRect": {
+              "top": 5796,
+              "bottom": 6090,
+              "left": 166,
+              "right": 392,
+              "width": 226,
+              "height": 294
+            },
+            "snippet": "<ul>",
+            "nodeLabel": "Subpart 2022.1 Basic Labor Policies\nSubpart 2022.9 Nondiscrimination Because of…",
+            "explanation": "Fix all of the following:\n  List element has direct children that are not allowed inside <li> elements"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-533-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,10,UL,3,UL,3,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 5943,
+                    "bottom": 5985,
+                    "left": 208,
+                    "right": 392,
+                    "width": 184,
+                    "height": 42
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "§2022.101-1 General\n§2022.103-4 Approvals"
+                }
+              },
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-534-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,10,UL,3,UL,5,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 6048,
+                    "bottom": 6090,
+                    "left": 208,
+                    "right": 392,
+                    "width": 184,
+                    "height": 42
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "§2022.901-70 Contract provisions"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-531-UL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,10,UL,5,UL",
+            "selector": "ul > ul > ul > ul",
+            "boundingRect": {
+              "top": 6153,
+              "bottom": 6363,
+              "left": 166,
+              "right": 392,
+              "width": 226,
+              "height": 210
+            },
+            "snippet": "<ul>",
+            "nodeLabel": "Subpart 2024.1 Protection of Individual Privacy\nSubpart 2024.2 Freedom of Infor…",
+            "explanation": "Fix all of the following:\n  List element has direct children that are not allowed inside <li> elements"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-535-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,10,UL,5,UL,3,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 6279,
+                    "bottom": 6300,
+                    "left": 208,
+                    "right": 392,
+                    "width": 184,
+                    "height": 21
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "§2024.103 Procedures"
+                }
+              },
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-536-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,10,UL,5,UL,5,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 6342,
+                    "bottom": 6363,
+                    "left": 208,
+                    "right": 392,
+                    "width": 184,
+                    "height": 21
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "§2024.202 Policy."
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-537-UL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,12,UL",
+            "selector": "div.col-sm-12 > ul > ul > ul",
+            "boundingRect": {
+              "top": 6405,
+              "bottom": 7287,
+              "left": 124,
+              "right": 392,
+              "width": 268,
+              "height": 882
+            },
+            "snippet": "<ul>",
+            "nodeLabel": "PART 2027 – PATENTS, DATA, AND COPYRIGHTS\nSubpart 2027.3 Patent Rights Under Go…",
+            "explanation": "Fix all of the following:\n  List element has direct children that are not allowed inside <li> elements"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-538-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,12,UL,1,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 6447,
+                    "bottom": 6636,
+                    "left": 166,
+                    "right": 392,
+                    "width": 226,
+                    "height": 189
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "Subpart 2027.3 Patent Rights Under Government Contracts\nSubpart 2027.3 Patent R…"
+                }
+              },
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-539-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,12,UL,3,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 6678,
+                    "bottom": 6741,
+                    "left": 166,
+                    "right": 392,
+                    "width": 226,
+                    "height": 63
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "Subpart 2030.2 – CAS Program Requirements\n§2030.201-5 Waiver"
+                }
+              },
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-540-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,12,UL,5,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 6783,
+                    "bottom": 6846,
+                    "left": 166,
+                    "right": 392,
+                    "width": 226,
+                    "height": 63
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "Subpart 2031.1 Applicability\n§2031.109-70 Contract clauses"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-538-UL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,12,UL,1,UL",
+            "selector": "ul > ul > ul > ul",
+            "boundingRect": {
+              "top": 6447,
+              "bottom": 6636,
+              "left": 166,
+              "right": 392,
+              "width": 226,
+              "height": 189
+            },
+            "snippet": "<ul>",
+            "nodeLabel": "Subpart 2027.3 Patent Rights Under Government Contracts\nSubpart 2027.3 Patent R…",
+            "explanation": "Fix all of the following:\n  List element has direct children that are not allowed inside <li> elements"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-541-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,12,UL,1,UL,2,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 6531,
+                    "bottom": 6636,
+                    "left": 208,
+                    "right": 392,
+                    "width": 184,
+                    "height": 105
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "§2027.305-3 Follow-up by Government\n§2027.305-70 – Solicitation provisions and …"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-539-UL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,12,UL,3,UL",
+            "selector": "ul > ul > ul > ul",
+            "boundingRect": {
+              "top": 6678,
+              "bottom": 6741,
+              "left": 166,
+              "right": 392,
+              "width": 226,
+              "height": 63
+            },
+            "snippet": "<ul>",
+            "nodeLabel": "Subpart 2030.2 – CAS Program Requirements\n§2030.201-5 Waiver",
+            "explanation": "Fix all of the following:\n  List element has direct children that are not allowed inside <li> elements"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-542-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,12,UL,3,UL,1,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 6720,
+                    "bottom": 6741,
+                    "left": 208,
+                    "right": 392,
+                    "width": 184,
+                    "height": 21
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "§2030.201-5 Waiver"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-540-UL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,12,UL,5,UL",
+            "selector": "ul > ul > ul > ul",
+            "boundingRect": {
+              "top": 6783,
+              "bottom": 6846,
+              "left": 166,
+              "right": 392,
+              "width": 226,
+              "height": 63
+            },
+            "snippet": "<ul>",
+            "nodeLabel": "Subpart 2031.1 Applicability\n§2031.109-70 Contract clauses",
+            "explanation": "Fix all of the following:\n  List element has direct children that are not allowed inside <li> elements"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-543-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,12,UL,5,UL,1,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 6804,
+                    "bottom": 6846,
+                    "left": 208,
+                    "right": 392,
+                    "width": 184,
+                    "height": 42
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "§2031.109-70 Contract clauses"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-544-UL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,12,UL,7,UL",
+            "selector": "ul > ul > ul > ul",
+            "boundingRect": {
+              "top": 6867,
+              "bottom": 6951,
+              "left": 166,
+              "right": 392,
+              "width": 226,
+              "height": 84
+            },
+            "snippet": "<ul>",
+            "nodeLabel": "Subpart 2032.4 Advance Payments for Non-Commercial Items\n§2032.402 General",
+            "explanation": "Fix all of the following:\n  List element has direct children that are not allowed inside <li> elements"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-545-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,12,UL,7,UL,1,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 6930,
+                    "bottom": 6951,
+                    "left": 208,
+                    "right": 392,
+                    "width": 184,
+                    "height": 21
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "§2032.402 General"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-546-UL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,12,UL,9,UL",
+            "selector": "ul > ul > ul > ul",
+            "boundingRect": {
+              "top": 6993,
+              "bottom": 7287,
+              "left": 166,
+              "right": 392,
+              "width": 226,
+              "height": 294
+            },
+            "snippet": "<ul>",
+            "nodeLabel": "Subpart 2033.1 Protests\nSubpart 2033.2 – Disputes and Appeals\nSubpart 2033.1 Pr…",
+            "explanation": "Fix all of the following:\n  List element has direct children that are not allowed inside <li> elements"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-547-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,12,UL,9,UL,3,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 7077,
+                    "bottom": 7119,
+                    "left": 208,
+                    "right": 392,
+                    "width": 184,
+                    "height": 42
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "§2033.103 Protests to the agency"
+                }
+              },
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-548-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,12,UL,9,UL,5,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 7161,
+                    "bottom": 7287,
+                    "left": 208,
+                    "right": 392,
+                    "width": 184,
+                    "height": 126
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "§2033.204 Policy\n§2033.211 Contract Claims – Contracting officer's decision\n§20…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-549-UL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,14,UL",
+            "selector": "div.col-sm-12 > ul > ul > ul",
+            "boundingRect": {
+              "top": 7329,
+              "bottom": 7455,
+              "left": 124,
+              "right": 392,
+              "width": 268,
+              "height": 126
+            },
+            "snippet": "<ul>",
+            "nodeLabel": "PART 2035 – RESEARCH AND DEVELOPMENT CONTRACTING\n§2035.70 Contract clauses\n§203…",
+            "explanation": "Fix all of the following:\n  List element has direct children that are not allowed inside <li> elements"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-550-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,14,UL,1,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 7371,
+                    "bottom": 7455,
+                    "left": 166,
+                    "right": 392,
+                    "width": 226,
+                    "height": 84
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "§2035.70 Contract clauses\n§2035.71 Broad agency announcements"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-550-UL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,14,UL,1,UL",
+            "selector": "ul > ul > ul > ul",
+            "boundingRect": {
+              "top": 7371,
+              "bottom": 7455,
+              "left": 166,
+              "right": 392,
+              "width": 226,
+              "height": 84
+            },
+            "snippet": "<ul>",
+            "nodeLabel": "§2035.70 Contract clauses\n§2035.71 Broad agency announcements",
+            "explanation": "Fix all of the following:\n  List element has direct children that are not allowed inside <li> elements"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-551-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,14,UL,1,UL,0,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 7371,
+                    "bottom": 7455,
+                    "left": 208,
+                    "right": 392,
+                    "width": 184,
+                    "height": 84
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "§2035.70 Contract clauses\n§2035.71 Broad agency announcements"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-552-UL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,16,UL",
+            "selector": "div.col-sm-12 > ul > ul > ul",
+            "boundingRect": {
+              "top": 7497,
+              "bottom": 8127,
+              "left": 124,
+              "right": 392,
+              "width": 268,
+              "height": 630
+            },
+            "snippet": "<ul>",
+            "nodeLabel": "PART 2042 – CONTRACT ADMINISTRATION\nSubpart 2042.570 Differing Professional Vie…",
+            "explanation": "Fix all of the following:\n  List element has direct children that are not allowed inside <li> elements"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-553-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,16,UL,1,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 7539,
+                    "bottom": 7854,
+                    "left": 166,
+                    "right": 392,
+                    "width": 226,
+                    "height": 315
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "Subpart 2042.570 Differing Professional Views (DPV)\nSubpart 2042.8 Disallowance…"
+                }
+              },
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-554-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,16,UL,3,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 7896,
+                    "bottom": 8127,
+                    "left": 166,
+                    "right": 392,
+                    "width": 226,
+                    "height": 231
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "Subpart 2045.3 Providing Government Property to Contractors\nSubpart 2045.3 Prov…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-553-UL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,16,UL,1,UL",
+            "selector": "ul > ul > ul > ul",
+            "boundingRect": {
+              "top": 7539,
+              "bottom": 7854,
+              "left": 166,
+              "right": 392,
+              "width": 226,
+              "height": 315
+            },
+            "snippet": "<ul>",
+            "nodeLabel": "Subpart 2042.570 Differing Professional Views (DPV)\nSubpart 2042.8 Disallowance…",
+            "explanation": "Fix all of the following:\n  List element has direct children that are not allowed inside <li> elements"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-555-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,16,UL,1,UL,2,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 7623,
+                    "bottom": 7770,
+                    "left": 208,
+                    "right": 392,
+                    "width": 184,
+                    "height": 147
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "Subpart 2042.570 – Differing Professional Views\n§2042.570-1 Policy.\n§2042.570-2…"
+                }
+              },
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-556-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,16,UL,1,UL,4,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 7812,
+                    "bottom": 7854,
+                    "left": 208,
+                    "right": 392,
+                    "width": 184,
+                    "height": 42
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "§2042.803 Disallowing costs after incurrence"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-554-UL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,16,UL,3,UL",
+            "selector": "ul > ul > ul > ul",
+            "boundingRect": {
+              "top": 7896,
+              "bottom": 8127,
+              "left": 166,
+              "right": 392,
+              "width": 226,
+              "height": 231
+            },
+            "snippet": "<ul>",
+            "nodeLabel": "Subpart 2045.3 Providing Government Property to Contractors\nSubpart 2045.3 Prov…",
+            "explanation": "Fix all of the following:\n  List element has direct children that are not allowed inside <li> elements"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-557-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,16,UL,3,UL,2,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 8022,
+                    "bottom": 8127,
+                    "left": 208,
+                    "right": 392,
+                    "width": 184,
+                    "height": 105
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "§2045.370 Providing Government property (in general)\n§2045.371 Property account…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-558-UL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,18,UL",
+            "selector": "div.col-sm-12 > ul > ul > ul",
+            "boundingRect": {
+              "top": 8148,
+              "bottom": 10101,
+              "left": 124,
+              "right": 392,
+              "width": 268,
+              "height": 1953
+            },
+            "snippet": "<ul>",
+            "nodeLabel": "PART 2052 – SOLICITATION PROVISIONS AND CONTRACT CLAUSES\nSubpart 2052.2 Text of…",
+            "explanation": "Fix all of the following:\n  List element has direct children that are not allowed inside <li> elements"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-559-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,18,UL,1,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 8211,
+                    "bottom": 10101,
+                    "left": 166,
+                    "right": 392,
+                    "width": 226,
+                    "height": 1890
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "Subpart 2052.2 Text of Provisions and Clauses\nSubpart 2052.2 Text of Provisions…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-559-UL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,18,UL,1,UL",
+            "selector": "ul > ul > ul > ul",
+            "boundingRect": {
+              "top": 8211,
+              "bottom": 10101,
+              "left": 166,
+              "right": 392,
+              "width": 226,
+              "height": 1890
+            },
+            "snippet": "<ul>",
+            "nodeLabel": "Subpart 2052.2 Text of Provisions and Clauses\nSubpart 2052.2 Text of Provisions…",
+            "explanation": "Fix all of the following:\n  List element has direct children that are not allowed inside <li> elements"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-560-UL",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,18,UL,1,UL,2,UL",
+                  "selector": "ul > ul > ul > ul",
+                  "boundingRect": {
+                    "top": 8295,
+                    "bottom": 10101,
+                    "left": 208,
+                    "right": 392,
+                    "width": 184,
+                    "height": 1806
+                  },
+                  "snippet": "<ul>",
+                  "nodeLabel": "§2052.200 Authority.\n§2052.204-70 Security\n§2052.204-71 Site access badge requi…"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-560-UL",
+            "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,18,UL,1,UL,2,UL",
+            "selector": "ul > ul > ul > ul",
+            "boundingRect": {
+              "top": 8295,
+              "bottom": 10101,
+              "left": 208,
+              "right": 392,
+              "width": 184,
+              "height": 1806
+            },
+            "snippet": "<ul>",
+            "nodeLabel": "§2052.200 Authority.\n§2052.204-70 Security\n§2052.204-71 Site access badge requi…",
+            "explanation": "Fix all of the following:\n  List element has direct children that are not allowed inside <li> elements"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-561-BR",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,18,UL,1,UL,2,UL,35,BR",
+                  "selector": "ul > ul > ul > br",
+                  "boundingRect": {
+                    "top": 10061,
+                    "bottom": 10077,
+                    "left": 230,
+                    "right": 230,
+                    "width": 0,
+                    "height": 16
+                  },
+                  "snippet": "<br>",
+                  "nodeLabel": "ul > ul > ul > br"
+                }
+              },
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-562-BR",
+                  "path": "1,HTML,1,BODY,0,FORM,5,DIV,4,MAIN,3,DIV,0,DIV,0,DIV,1,UL,0,UL,18,UL,1,UL,2,UL,36,BR",
+                  "selector": "ul > ul > ul > br",
+                  "boundingRect": {
+                    "top": 10082,
+                    "bottom": 10098,
+                    "left": 230,
+                    "right": 230,
+                    "width": 0,
+                    "height": 16
+                  },
+                  "snippet": "<br>",
+                  "nodeLabel": "ul > ul > ul > br"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.structure",
+          "wcag2a",
+          "wcag131"
+        ]
+      }
+    },
+    "errorCount": 34
+  }
+]
