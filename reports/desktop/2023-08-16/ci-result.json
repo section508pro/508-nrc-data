@@ -1,0 +1,658 @@
+[
+  {
+    "path": "/",
+    "score": 0.83,
+    "performance": 0.77,
+    "accessibility": 0.96,
+    "best-practices": 0.92,
+    "seo": 0.67
+  },
+  {
+    "path": "/about-nrc.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/alt-dispute-resolution.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/alt-dispute-resolution/nrc-participation.html",
+    "score": 0.91,
+    "performance": 0.97,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/alt-dispute-resolution/nrc-programs.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/career-opportunities/outreach/21st-annual-diversity-employment-day-career-fair-a.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.95,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/career-opportunities/outreach/alabama-a-m-youth-motivation-task-force.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/career-opportunities/outreach/american-indian-science-and-engineering-societ-(1).html",
+    "score": 0.9,
+    "performance": 0.98,
+    "accessibility": 0.95,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/career-opportunities/outreach/equal-opportunities-publications-(eop),-inc-ca-(2).html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/career-opportunities/outreach/nuclear-power-officers-conference-(1).html",
+    "score": 0.9,
+    "performance": 0.99,
+    "accessibility": 0.95,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/career-opportunities/outreach/purdue-university-industrial-roundtable-career-fai.html",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/career-opportunities/outreach/texas-a-m-university-student-engineers’-council-ca.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/career-opportunities/outreach/university-of-michigan-swe-tbp-career-fair-(ann-ar.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/cfsi.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/cfsi/guidance.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/cfsi/presentations.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/cfsi/safety-culture.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/diversity-equity-inclusion.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/diversity-equity-inclusion/aapii.html",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/diversity-equity-inclusion/hbcu.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/diversity-equity-inclusion/hsi.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/diversity-equity-inclusion/tcu.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs.html",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/contactus.html",
+    "score": 0.84,
+    "performance": 0.7,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/contactus/contactus-eeo.html",
+    "score": 0.91,
+    "performance": 0.97,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/contactus/contactus-occp.html",
+    "score": 0.89,
+    "performance": 0.91,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/contactus/contactus-sb.html",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/crp.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/crp/about-crp.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/crp/dca.html",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/crp/edc-process.html",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/crp/edc-process/edc-formal-complaint.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/crp/edc-process/edc-precomplaint.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/crp/edc-process/nrc-counselors.html",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/crp/eeo-adr-program.html",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/crp/eeo-adr-program/coordinator.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/crp/eeo-adr-program/formal-complaint.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/crp/eeo-adr-program/mediation.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/crp/eeo-adr-program/pre-complaint.html",
+    "score": 0.9,
+    "performance": 0.96,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/crp/eeo-statutes-regs.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/crp/eeo.html",
+    "score": 0.9,
+    "performance": 0.94,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/crp/faq.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/occp/compliance-pgrm/age.html",
+    "score": 0.91,
+    "performance": 0.97,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/occp/compliance-pgrm/disability.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/occp/compliance-pgrm/title-ix.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/occp/compliance-pgrm/title-vi.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/outreach-coord-comp-program.html",
+    "score": 0.91,
+    "performance": 0.97,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/outreach-coord-comp-program/award-compliance.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/outreach-coord-comp-program/compliance-pgrm.html",
+    "score": 0.9,
+    "performance": 0.96,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/outreach-coord-comp-program/how-to-file-complaint-discrimination-recipient-nrc-financial-assistance.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/outreach-coord-comp-program/limited-english.html",
+    "score": 0.9,
+    "performance": 0.95,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/outreach-coord-comp-program/section-504.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/programs/outreach-coord-comp-program/statutes.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/reasonable-accommodations.html",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/civil-rights/special-emphasis.html",
+    "score": 0.87,
+    "performance": 0.84,
+    "accessibility": 0.95,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/contactus/contact-pages.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/contactus/phone-directory.html",
+    "score": 0.89,
+    "performance": 0.99,
+    "accessibility": 0.89,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/contactus/vulnerability-disclosure-policy-information.html",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/contactus/vulnerability-disclosure-policy-information/policy.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/contracting/48cfr-ch20.html",
+    "score": 0.9,
+    "performance": 0.99,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/contracting/forecast/commercial-contracts-metadata.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/contracting/general/general.html",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/contracting/general/notice.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/contracting/small-business.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/contracting/small-business/forecast.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/contracting/small-business/meet-greet-seminars.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/contracting/small-business/other.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/contracting/small-business/overview.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/contracting/small-business/programs.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/contracting/small-business/small-business-sub-contr-opps.html",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/contracting/small-business/tips.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/covid-19/index.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/covid-19/materials/decommissioning.html",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/covid-19/materials/fuel-cycle.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/covid-19/materials/index.html",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/covid-19/materials/med-indust-academic.html",
+    "score": 0.9,
+    "performance": 0.95,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/covid-19/materials/storage.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/covid-19/reactors/codes-standards.html",
+    "score": 0.9,
+    "performance": 0.94,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/covid-19/reactors/fire-brigade-req.html",
+    "score": 0.9,
+    "performance": 0.96,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/covid-19/reactors/index.html",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.97,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/covid-19/reactors/inspector-guidance.html",
+    "score": 0.91,
+    "performance": 0.97,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-nrc/covid-19/reactors/licensing-actions.html",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.92,
+    "seo": 0.75
+  }
+]
